@@ -1,0 +1,7 @@
+add playback, pause, skip, shuffle, repeat options
+
+need to turn them all into button listeners and edit the shuffle/repeate color
+
+edit layout to new spotify version(more black)
+
+
